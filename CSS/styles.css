@@ -1,0 +1,10 @@
+:root  
+
+
+
+
+esta-es-una-clase:hover{
+        color: aqua;
+        font-size: 100px;
+        cursor: pointer;
+}
